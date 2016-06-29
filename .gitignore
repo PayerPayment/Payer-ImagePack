@@ -1,3 +1,6 @@
 .DS_Store
+__MACOSX
+CVS
+make.sh
 data
 vendor
