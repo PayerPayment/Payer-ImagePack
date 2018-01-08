@@ -1,3 +1,5 @@
+![Payer Logotype](http://payer.se/public/PAYER_SUSTAINABLE_PAYMENTS_LOGO.png)
+
 # Payer Image Pack
 
 This package includes all images for your Payer integration, such as logotypes by Payer, Visa, MasterCard etc.
